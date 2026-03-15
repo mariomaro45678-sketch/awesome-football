@@ -92,6 +92,7 @@ _Where's the open football data?_
 
 - [Guide to Football Data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) - The Definite Football Data List collected by Joe Kampschmid  
 - [Article: Using open football data - Get ready for the World Cup in Brazil 2014 @ The Data Wrangling Blog (Open Knowledge Foundation (OKFN) Labs)](http://okfnlabs.org/blog/2014/05/06/open-data-world-cup.html) by Gerald Bauer
+- [Match Engine](https://matchengine.pro/) - free football analytics platform with xG, PPDA, win probability and match predictions for Premier League, La Liga, Bundesliga, Serie A and Ligue 1
 
 ## Football Datasets
 
